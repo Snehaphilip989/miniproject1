@@ -18,3 +18,8 @@ To move a file or directory from one place to another, we use mv command (where 
 
 ## 6. rm - remove 
 To remove the file from the directory, we use rm command (where "rm" stands for "remove").It removes each file specified on the command line. When rm is executed with the -r or -R options, it recursively deletes any matching directories
+
+## 7. History 
+The History command is used to view the previously executed command
+
+ 

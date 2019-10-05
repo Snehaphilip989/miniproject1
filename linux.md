@@ -24,6 +24,12 @@ $ pwd
 ## 5. mv - move
 To move a file or directory from one place to another, we use mv command (where "mv" stands for "move"). It is also used to rename a file.  It supports moving single files, multiple files and directories.
 
+Moving a file is just as simple:
+$ mv path/to/file.ext different/path/file.ext
+The "mv" command can also be used to rename a file:
+$ mv old-filename.ext new-filename.ext
+
+
 ## 6. rm - remove 
 To remove the file from the directory, we use rm command (where "rm" stands for "remove").It removes each file specified on the command line. When rm is executed with the -r or -R options, it recursively deletes any matching directories
 

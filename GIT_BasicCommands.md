@@ -21,3 +21,11 @@ It's the go-to command when it comes to managing any aspect of your branches - n
 
 The git commit command is used to capture a snapshot of the project's currently staged changes. 
 Committed snapshots are safe versions of a project and git will never change them unless you explicitly ask it to. 
+
+## Merge 
+
+The git merge command lets us to take the independent lines of development created by git branch and integrate them into a single branch.
+
+## Checkout 
+
+The git checkout command lets you navigate between the branches created by git branch.The git checkout command operates upon three distinct entities: files, commits, and branches. 

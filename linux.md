@@ -22,4 +22,6 @@ To remove the file from the directory, we use rm command (where "rm" stands for 
 ## 7. History 
 The History command is used to view the previously executed command
 
+## 8. ~ - Tilde
+To know users account home folder, we use ~. Instead of typing something like "cd /Users/your-username/projects/", we use this notation  "cd ~/project"
  

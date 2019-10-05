@@ -15,3 +15,6 @@ To find out in which directory we are presently working, we use pwd command (whe
 
 ## 5. mv - move
 To move a file or directory from one place to another, we use mv command (where "mv" stands for "move"). It is also used to rename a file.  It supports moving single files, multiple files and directories.
+
+## 6. rm - remove 
+To remove the file from the directory, we use rm command (where "rm" stands for "remove").It removes each file specified on the command line. When rm is executed with the -r or -R options, it recursively deletes any matching directories

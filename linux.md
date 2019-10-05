@@ -1,6 +1,7 @@
 # Linux and the basic commands
 ## 1. cd - change directory
 To change the current working directory, we use the "cd" command (where "cd" stands for "change directory")
+$ cd name-of-subfolder/sub-subfolder/
 
 ![Adding Image for cd](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/cd.JPG)
 

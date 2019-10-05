@@ -46,6 +46,8 @@ $ rm -r path/to/folder
 ## 7. History 
 The History command is used to view the previously executed command
 
+![Adding Image for History](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/History.JPG)
+
 ## 8. ~ - Tilde
 To know users account home folder, we use ~. Instead of typing something like "cd /Users/your-username/projects/", we use this notation  "cd ~/project"
  

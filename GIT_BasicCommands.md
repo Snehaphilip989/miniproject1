@@ -40,6 +40,9 @@ The git pull command is used to fetch and merge remote changes.
 
 ## Remote Add / Remove / Show
 
+## Status
+
+## Master Branch
 
 
 

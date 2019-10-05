@@ -49,6 +49,11 @@ A path is a unique location to a file or a folder in a file system of an OS. A p
 
 ## 10. Using the tab key to complete file paths
 Whenever we enter file names we use the TAB key. It autocompletes the file names including paths to a file or directory.
+For example, when you want to switch to a different directory, you can either type every component of the path yourself:
+$ cd ~/projects/acmedesign/documentation/
+
+Or you make use of the TAB key (try this yourself!):
+$ cd ~/pr[TAB]ojects/ac[TAB]medesign/doc[TAB]umentation/
 
 ## 11. Using up and down arrow for history
 We can step through the last commands we called (starting with the most recently used) by using the Arrow UP key

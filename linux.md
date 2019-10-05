@@ -41,6 +41,8 @@ $ rm path/to/file.ext
 When trying to delete a folder, however, please note that you'll have to add the "-r" flag (which stand for "recursive"):
 $ rm -r path/to/folder
 
+![Adding Image for rm](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/rm.JPG)
+
 ## 7. History 
 The History command is used to view the previously executed command
 

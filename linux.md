@@ -7,6 +7,8 @@ To change the current working directory, we use the "cd" command (where "cd" sta
 ## 2. mkdir - make directory
 To create a new folder, we use the mkdir command (where "mkdir" stands for "make directory")
 
+![Adding Image for mkdir](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/mkdir.JPG)
+
 ## 3. cp - Copy
 The cp command is a command-line utility for copying files and directories. It supports moving one or more files or folders with options for taking backups and preserving attributes.
  

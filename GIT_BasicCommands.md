@@ -29,3 +29,11 @@ The git merge command lets us to take the independent lines of development creat
 ## Checkout 
 
 The git checkout command lets you navigate between the branches created by git branch.The git checkout command operates upon three distinct entities: files, commits, and branches. 
+
+## Push  
+
+The git push command is used to upload local repository content to a remote repository. 
+
+## Pull 
+
+The git pull command is used to fetch and merge remote changes.

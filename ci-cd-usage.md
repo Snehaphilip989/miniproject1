@@ -17,7 +17,7 @@ CI reduces manual tasks and errors, which also reduces the risk of outages or do
 
 ## SOURCE: 
 
-[ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses
-[ci/cd] https://semaphoreci.com/blog/cicd-pipeline
-[GIT] https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
-[DOCKER] https://medium.com/uptime-99/the-benefits-of-using-docker-for-development-and-operations-2c5256ad89bc
+### [ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses
+### [ci/cd] https://semaphoreci.com/blog/cicd-pipeline
+### [GIT] https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+### [DOCKER] https://medium.com/uptime-99/the-benefits-of-using-docker-for-development-and-operations-2c5256ad89bc

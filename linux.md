@@ -68,3 +68,5 @@ and Arrow DOWN helps in moving forward in history towards the most recent cell.
 
 ## 12. Home Directory 
 A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.
+
+![Adding Image for Home Directory](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/home%20directory.JPG)

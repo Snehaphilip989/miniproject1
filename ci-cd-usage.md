@@ -14,3 +14,10 @@ The continuous updates and test automation in CI helps ensure reliable, high-qua
 
 ### 2. Reduced Costs from Fewer Outages
 CI reduces manual tasks and errors, which also reduces the risk of outages or downtime after release. For end users, that provides a higher level of service and increases productivity, especially when CI is extended to CD, where deployments occur automatically across test environments and into production. More importantly, it drastically reduces costs as businesses won’t have to spend time and resources resolving outages.
+
+## SOURCE: 
+
+[ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses
+[ci/cd] https://semaphoreci.com/blog/cicd-pipeline
+[GIT] https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+[DOCKER] https://medium.com/uptime-99/the-benefits-of-using-docker-for-development-and-operations-2c5256ad89bc

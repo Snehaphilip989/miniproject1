@@ -31,6 +31,7 @@ $ mv path/to/file.ext different/path/file.ext
 The "mv" command can also be used to rename a file:
 $ mv old-filename.ext new-filename.ext
 
+![Adding Image for pwd](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/mv.JPG)
 
 ## 6. rm - remove 
 To remove the file from the directory, we use rm command (where "rm" stands for "remove").It removes each file specified on the command line. When rm is executed with the -r or -R options, it recursively deletes any matching directories

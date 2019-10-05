@@ -33,6 +33,11 @@ $ mv old-filename.ext new-filename.ext
 ## 6. rm - remove 
 To remove the file from the directory, we use rm command (where "rm" stands for "remove").It removes each file specified on the command line. When rm is executed with the -r or -R options, it recursively deletes any matching directories
 
+Let's start by removing a file:
+$ rm path/to/file.ext
+When trying to delete a folder, however, please note that you'll have to add the "-r" flag (which stand for "recursive"):
+$ rm -r path/to/folder
+
 ## 7. History 
 The History command is used to view the previously executed command
 

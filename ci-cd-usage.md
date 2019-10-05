@@ -6,3 +6,11 @@ Software is a key competitive differentiator for companies across industries. Th
 Source Stage: Pipeline run is triggered by a source code repository. A change in code triggers a notification to the CI/CD tool, which runs the corresponding pipeline.
 
 Build Stage: The source code and its dependencies to build a runnable instance of our product that we can potentially ship to our end users. Regardless of the language, cloud-native software is typically deployed with Docker, in which case this stage of the CI/CD pipeline builds the Docker containers.
+
+## Aspects of using Git, Docker, Automated Testing, and Continuous Integration that provides companies a competitive edge :
+
+### 1. Reliable, High Performance 
+The continuous updates and test automation in CI helps ensure reliable, high-quality releases that have fewer errors and bugs that could reduce their effectiveness. For end users, that translates to enhancements that they can put to use more quickly to drive business growth.
+
+### 2. Reduced Costs from Fewer Outages
+CI reduces manual tasks and errors, which also reduces the risk of outages or downtime after release. For end users, that provides a higher level of service and increases productivity, especially when CI is extended to CD, where deployments occur automatically across test environments and into production. More importantly, it drastically reduces costs as businesses won’t have to spend time and resources resolving outages.

@@ -18,6 +18,8 @@ If, instead of moving the file, you want to copy it, simply use "cp" instead of 
 
 ## 4. pwd - Print Working Directory
 To find out in which directory we are presently working, we use pwd command (where "pwd" stands for "print working directory").  It will return the path to a local folder on our computer's disk.
+First command to find out where we currently are:
+$ pwd
 
 ## 5. mv - move
 To move a file or directory from one place to another, we use mv command (where "mv" stands for "move"). It is also used to rename a file.  It supports moving single files, multiple files and directories.

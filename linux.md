@@ -21,6 +21,8 @@ To find out in which directory we are presently working, we use pwd command (whe
 First command to find out where we currently are:
 $ pwd
 
+![Adding Image for pwd](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/pwd.JPG)
+
 ## 5. mv - move
 To move a file or directory from one place to another, we use mv command (where "mv" stands for "move"). It is also used to rename a file.  It supports moving single files, multiple files and directories.
 

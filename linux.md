@@ -30,3 +30,7 @@ A path is a unique location to a file or a folder in a file system of an OS. A p
 
 ## 10. Using the tab key to complete file paths
 Whenever we enter file names we use the TAB key. It autocompletes the file names including paths to a file or directory.
+
+## 11. Using up and down arrow for history
+We can step through the last commands we called (starting with the most recently used) by using the Arrow UP key
+and Arrow DOWN helps in moving forward in history towards the most recent cell. 

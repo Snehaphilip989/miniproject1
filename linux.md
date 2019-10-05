@@ -65,3 +65,6 @@ $ cd ~/pr[TAB]ojects/ac[TAB]medesign/doc[TAB]umentation/
 ## 11. Using up and down arrow for history
 We can step through the last commands we called (starting with the most recently used) by using the Arrow UP key
 and Arrow DOWN helps in moving forward in history towards the most recent cell. 
+
+## 12. Home Directory 
+A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.

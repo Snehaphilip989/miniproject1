@@ -27,3 +27,6 @@ To know users account home folder, we use ~. Instead of typing something like "c
  
 ## 9. File paths in linux 
 A path is a unique location to a file or a folder in a file system of an OS. A path to a file is a combination of / and alpha- numeric characters.
+
+## 10. Using the tab key to complete file paths
+Whenever we enter file names we use the TAB key. It autocompletes the file names including paths to a file or directory.

@@ -7,6 +7,8 @@ $ cd name-of-subfolder/sub-subfolder/
 
 ## 2. mkdir - make directory
 To create a new folder, we use the mkdir command (where "mkdir" stands for "make directory")
+Finally, to create a new folder, you call the "make directory" command:
+$ mkdir new-folder
 
 ![Adding Image for mkdir](https://github.com/Snehaphilip989/miniproject1/blob/master/Images/mkdir.JPG)
 

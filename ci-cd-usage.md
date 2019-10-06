@@ -11,6 +11,9 @@ Build Stage: The source code and its dependencies to build a runnable instance o
 
 Test Stage: We run automated tests to validate the correctness of our code and the behavior of our product.The test stage acts as a safety net that prevents easily reproducible bugs from reaching the end users.Depending on the size and complexity of the project, this phase can last from seconds to hours. Many large-scale projects run tests in multiple stages, starting with smoke tests that perform quick sanity checks to end-to-end integration tests that test the entire system from the user’s point of view.
 
+Deploy Stage: Once we have a built a runnable instance of our code that has passed all predefined tests, we’re ready to deploy it. There are usually multiple deploy environments, for example a “beta” or “staging” environment which is used internally by the product team, and a “production” environment for end users.
+Teams that have embraced the Agile model of development—which is guided by tests and real-time monitoring—usually deploy work-in-progress manually to a staging environment for additional manual testing and review, and automatically deploy approved changes from the master branch to production.
+
 ## Aspects of using Git, Docker, Automated Testing, and Continuous Integration that provides companies a competitive edge :
 
 ### 1. Reliable, High Performance 

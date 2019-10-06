@@ -25,6 +25,9 @@ CI reduces manual tasks and errors, which also reduces the risk of outages or do
 ### 3. Faster Delivery of software
 Faster build times, more reliable code and tests, and reduced outages all translate to faster delivery of new enhancements to market for companies and their users – often as part of a larger continuous delivery process. Companies can use their enhanced functionality to improve products and services for their customers and gain a competitive advantage in the marketplace.
 
+### 4. Continuous Integration Enables Continuous Delivery
+Continuous integration is just one element of continuous methodologies. Most companies see the best benefits by implementing continuous integration within the larger framework of continuous delivery, creating a full CI/CD pipeline that drives improved business and IT performance.
+
 ## SOURCE: 
 
 ### [ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses

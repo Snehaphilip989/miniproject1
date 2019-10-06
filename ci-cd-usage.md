@@ -22,6 +22,9 @@ The continuous updates and test automation in CI helps ensure reliable, high-qua
 ### 2. Reduced Costs from Fewer Outages
 CI reduces manual tasks and errors, which also reduces the risk of outages or downtime after release. For end users, that provides a higher level of service and increases productivity, especially when CI is extended to CD, where deployments occur automatically across test environments and into production. More importantly, it drastically reduces costs as businesses won’t have to spend time and resources resolving outages.
 
+### 3. Faster Delivery of software
+Faster build times, more reliable code and tests, and reduced outages all translate to faster delivery of new enhancements to market for companies and their users – often as part of a larger continuous delivery process. Companies can use their enhanced functionality to improve products and services for their customers and gain a competitive advantage in the marketplace.
+
 ## SOURCE: 
 
 ### [ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses

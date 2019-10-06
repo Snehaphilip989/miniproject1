@@ -9,6 +9,8 @@ Source Stage: Pipeline run is triggered by a source code repository. A change in
 
 Build Stage: The source code and its dependencies to build a runnable instance of our product that we can potentially ship to our end users. Regardless of the language, cloud-native software is typically deployed with Docker, in which case this stage of the CI/CD pipeline builds the Docker containers.
 
+Test Stage: We run automated tests to validate the correctness of our code and the behavior of our product.The test stage acts as a safety net that prevents easily reproducible bugs from reaching the end users.Depending on the size and complexity of the project, this phase can last from seconds to hours. Many large-scale projects run tests in multiple stages, starting with smoke tests that perform quick sanity checks to end-to-end integration tests that test the entire system from the user’s point of view.
+
 ## Aspects of using Git, Docker, Automated Testing, and Continuous Integration that provides companies a competitive edge :
 
 ### 1. Reliable, High Performance 

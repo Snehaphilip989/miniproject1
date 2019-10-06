@@ -1,6 +1,8 @@
 ## How the usage of Git, Docker, Automated Testing, and Continuous Integration can improve the productivity and competitiveness of a company ?
 Software is a key competitive differentiator for companies across industries. The faster companies can get new enhancements and functionality to market, the wider their competitive edge.To achieve such development teams adopt continuous integration to speed up and automate the software delivery lifecycle. CI, a DevOps process that is integral to continuous delivery. Continuously integrating code improves processes in a way that benefits both IT teams and their business counterparts.
 
+CI continuously processes, tests, and uploads changes or additions made to a code base. The code is saved in a source control management system that is accessible to all developers for testing and reference. Any developer working on the application has access to the most current code. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly.Three major impacts it has done to improve the productivity and competitiveness for the companies are reducing the errors and manual tasks, identified and resolved integration challenges early and shorten the delivery life-cycle.
+
 ## Following are the elements for the continuous Integration/Continuous delivery pipeline structure: 
 
 Source Stage: Pipeline run is triggered by a source code repository. A change in code triggers a notification to the CI/CD tool, which runs the corresponding pipeline.

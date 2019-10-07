@@ -22,6 +22,8 @@ It's the go-to command when it comes to managing any aspect of your branches - n
 The git commit command is used to capture a snapshot of the project's currently staged changes. 
 Committed snapshots are safe versions of a project and git will never change them unless you explicitly ask it to. 
 
+![Image of Commit](https://github.com/Snehaphilip989/miniproject1/blob/master/Image/Commit.PNG)
+
 ## Merge 
 
 The git merge command lets us to take the independent lines of development created by git branch and integrate them into a single branch.

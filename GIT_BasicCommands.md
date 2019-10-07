@@ -38,6 +38,8 @@ The git push command is used to upload local repository content to a remote repo
 
 The git pull command is used to fetch and merge remote changes.
 
+![Image of Pull](https://github.com/Snehaphilip989/miniproject1/blob/master/Image/pull.PNG)
+
 ## Remote Add / Remove / Show
 
 ## Status

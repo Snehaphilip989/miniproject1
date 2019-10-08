@@ -37,6 +37,8 @@ A branch in Git is simply a lightweight movable pointer to one of these commits.
 The git commit command is used to capture a snapshot of the project's currently staged changes. 
 Committed snapshots are safe versions of a project and git will never change them unless you explicitly ask it to. 
 
+The git commit command records a bunch of file changes in the local repository and calculates a hash that can serve as a tag for this bunch of file changes. These commits can later be pushed to a remote repository, merged from a remote repository, or cherrypicked to another branch.
+
 ![Image of Commit](https://github.com/Snehaphilip989/miniproject1/blob/master/Image/Commit.PNG)
 
 ## Merge 

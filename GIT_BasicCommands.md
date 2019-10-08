@@ -2,7 +2,16 @@
 
 ## Repository 
 
-To store information in a git, it stores in the data structure which is called a repository. It is a .git/ folder inside a project . It tracks all the changes made to the file in a project. 
+Git repository is just a folder or a file location where you have all the project files stored.To store information in a git, it stores in the data structure which is called a repository. It is a .git/ folder inside a project . It tracks all the changes made to the file in a project. 
+
+Git repository is a general term used and you usually work with 2 repositories: Local and Remote repository.
+
+**Local Repository:** This is where you store your files and codes in a folder(s) on your local machine. When you commit any file or code, a new version of that file gets created inside the folder in your local system.
+
+**Remote Repository:** A remote repository is present in a remote location and not on your local computer. An example of remote repository is GitHub where you can store all your files and codes directly on the GitHub server.
+
+The files present in the remote repository can be imported on to your local system and the files on your local git repository can be pushed on to remote git repository.
+
 
 ## Clone 
 

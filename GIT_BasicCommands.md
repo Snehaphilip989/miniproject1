@@ -43,7 +43,9 @@ The git commit command records a bunch of file changes in the local repository a
 
 ## Merge 
 
-The git merge command lets us to take the independent lines of development created by git branch and integrate them into a single branch.
+Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
+Git merge will combine multiple sequences of commits into one unified history. Merge commits are unique against other commits in the fact that they have two parent commits. When creating a merge commit Git will attempt to auto magically merge the separate histories for you. If Git encounters a piece of data that is changed in both histories it will be unable to automatically combine them. This scenario is a version control conflict and Git will need user intervention to continue. 
 
 ## Checkout 
 

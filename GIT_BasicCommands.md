@@ -51,6 +51,8 @@ Git merge will combine multiple sequences of commits into one unified history. M
 
 The git checkout command lets you navigate between the branches created by git branch.The git checkout command operates upon three distinct entities: files, commits, and branches. 
 
+Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
+
 ## Push  
 
 The git push command is used to upload local repository content to a remote repository. 

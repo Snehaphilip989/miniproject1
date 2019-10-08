@@ -21,7 +21,9 @@ To create a working copy of the local repository, we use git clone. We use git c
 
 ## Fork  
 
-To create a copy of the repository, we use fork. Unlike clone, fork doesnt allow us to work with repository on the local machine, rather it remains in the github itself. It allows to freely experiment with changes without affecting the original project. We use fork to either propose changes to someone elses project or to use someone elses projet as a starting point. 
+Fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. 
+
+To create a copy of the repository, we use fork. Unlike clone, fork doesnt allow us to work with repository on the local machine, rather it remains in the github itself. It allows to freely experiment with changes without affecting the original project. We use fork to either propose changes to someone else' project or to use someone else' project as a starting point. 
 
 ## Branch 
 

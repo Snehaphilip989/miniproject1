@@ -14,3 +14,15 @@
 ## Develop Branch 
  
 The develop branch is where the all the new features are built. In order to build a new feature, the latest version of the master branch is copied onto the develop branch and all the development and testing takes place on the develop branch.
+
+# Working of gitFlow
+
+New development (new features, non-emergency bug fixes) are built in feature branches:
+
+Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch when they’re ready for release:
+
+When it is time to make a release, a release branch is created off of develop:
+
+The code in the release branch is deployed onto a suitable test environment, tested, and any problems are fixed directly in the release branch. This deploy -> test -> fix -> redeploy -> retest cycle continues until you’re happy that the release is good enough to release to customers.
+
+When the release is finished, the release branch is merged into master and into develop too, to make sure that any changes made in the release branch aren’t accidentally lost by new development.

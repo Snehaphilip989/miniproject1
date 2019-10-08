@@ -30,6 +30,8 @@ To create a copy of the repository, we use fork. Unlike clone, fork doesnt allow
 The "branch" command helps you create, delete, and list branches. 
 It's the go-to command when it comes to managing any aspect of your branches - no matter if in your local repository or on your remotes.
 
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+
 ## Commit 
 
 The git commit command is used to capture a snapshot of the project's currently staged changes. 

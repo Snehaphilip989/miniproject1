@@ -55,7 +55,10 @@ Checking out a branch updates the files in the working directory to match the ve
 
 ## Push  
 
-The git push command is used to upload local repository content to a remote repository. 
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repository. Remote branches are configured using the git remote command. Pushing has the potential to overwrite changes; caution should be taken when pushing.
+
+Push the specified branch to <remote>,along with all of the necessary commits and internal objects. This creates a local branch in the destination repository. To prevent you from overwriting commits, Git won’t let you push when it results in a non-fast-forward merge in the destination repository.
+
 
 ## Pull 
 

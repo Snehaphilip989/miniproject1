@@ -19,3 +19,4 @@
 ## Changelog
 
 ### 1. [Ullash Changelog](https://github.com/Snehaphilip989/miniproject1/blob/master/Changelog_UllashJain.md)
+### 2. [Sneha Changelog](https://github.com/Snehaphilip989/miniproject1/blob/master/Changelog_SnehaPhilip.md)

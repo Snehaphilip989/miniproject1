@@ -32,9 +32,13 @@ Faster build times, more reliable code and tests, and reduced outages all transl
 ### 4. Continuous Integration Enables Continuous Delivery
 Continuous integration is just one element of continuous methodologies. Most companies see the best benefits by implementing continuous integration within the larger framework of continuous delivery, creating a full CI/CD pipeline that drives improved business and IT performance.
 
+[Linux and Basic Commands](https://github.com/Snehaphilip989/miniproject1/blob/master/linux.md)
+
 ## SOURCE: 
 
 ### [ci/cd] https://dzone.com/articles/benefits-of-continuous-integration-for-businesses
 ### [ci/cd] https://semaphoreci.com/blog/cicd-pipeline
 ### [GIT] https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
 ### [DOCKER] https://medium.com/uptime-99/the-benefits-of-using-docker-for-development-and-operations-2c5256ad89bc
+
+

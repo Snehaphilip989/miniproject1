@@ -14,6 +14,8 @@
 
 ### 4. [Working of GitFlow](https://github.com/Snehaphilip989/miniproject1/blob/master/gitFlow.md)
 
+### 5. [VI](https://github.com/Snehaphilip989/miniproject1/blob/master/VI.md)
+
 ## Changelog
 
 ### 1. [Ullash Changelog](https://github.com/Snehaphilip989/miniproject1/blob/master/Changelog_UllashJain.md)

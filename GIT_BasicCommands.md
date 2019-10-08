@@ -15,6 +15,8 @@ The files present in the remote repository can be imported on to your local syst
 
 ## Clone 
 
+git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. The original repository can be located on the local file system or on remote machine accessible supported protocols. The git clone command copies an existing Git repository.
+
 To create a working copy of the local repository, we use git clone. We use git clone command to clone a repository and bring all the files to the local machine. We can make changes in the cloned repository locally and the changed one can be pushed to the upstream directly. 
 
 ## Fork  

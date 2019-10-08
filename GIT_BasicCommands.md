@@ -62,7 +62,12 @@ Push the specified branch to <remote>,along with all of the necessary commits an
 
 ## Pull 
 
-The git pull command is used to fetch and merge remote changes.
+The git pull command is used to fetch and merge remote changes. git pull is a Git command used to update the local version of a repository from a remote. It is one of the four commands that prompt network interaction by Git. By default, git pull does two things.
+
+-  Updates the current local working branch (currently checked out branch)
+
+-  Updates the remote tracking branches for all other branches.
+
 
 ![Image of Pull](https://github.com/Snehaphilip989/miniproject1/blob/master/Image/pull.PNG)
 

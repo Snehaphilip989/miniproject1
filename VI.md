@@ -168,3 +168,47 @@ The following commands allow you to copy and paste text.
 	
  	p	put (paste) the line(s) in the buffer into the text after the current line
 
+##  Other Commands
+
+### Searching Text
+
+A common occurrence in text editing is to replace one word or phase by another. To locate instances of particular sets of characters (or strings), use the following commands.
+
+ 	/string	search forward for occurrence of string in text
+	
+ 	?string	search backward for occurrence of string in text
+	
+ 	n	move to next occurrence of search string
+	
+ 	N	move to next occurrence of search string in opposite direction
+	
+		
+### Determining Line Numbers
+
+Being able to determine the line number of the current line or the total number of lines in the file being edited is sometimes useful.
+
+ 	:.=	returns line number of current line at bottom of screen
+	
+ 	:=	returns the total number of lines at bottom of screen
+	
+ 	^g	provides the current line number, along with the total number of lines,
+	
+in the file at the bottom of the screen
+		
+
+### Saving and Reading Files
+
+These commands permit you to input and output files other than the named file with which you are currently working.
+
+ 	:r filename<Return>	read file named filename and insert after current line
+(the line with cursor)
+
+ 	:w<Return>	write current contents to file named in original vi call
+	
+ 	:w newfile<Return>	write current contents to a new file named newfile
+	
+ 	:12,35w smallfile<Return>	write the contents of the lines numbered 12 through 35 to a new file named smallfile
+	
+ 	:w! prevfile<Return>	write current contents over a pre-existing file named prevfile
+		
+

@@ -12,6 +12,7 @@
 
 ### 3. [GIT Basic Commands](https://github.com/Snehaphilip989/miniproject1/blob/master/GIT_BasicCommands.md)
 
+### 4. [Working of GitFlow](https://github.com/Snehaphilip989/miniproject1/blob/master/gitFlow.md)
 
 ## Changelog
 

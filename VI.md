@@ -34,4 +34,137 @@ The cursor moves to bottom of screen whenever a colon (:) is typed. This type of
   
 	:q!<Return>	quit vi even though latest changes have not been saved for this vi call
 		
+##  Moving the Cursor
+
+Unlike many of the PC and MacIntosh editors, the mouse does not move the cursor within the vi editor screen (or window). You must use the the key commands listed below. On some UNIX platforms, the arrow keys may be used as well; however, since vi was designed with the Qwerty keyboard (containing no arrow keys) in mind, the arrow keys sometimes produce strange effects in vi and should be avoided.
+
+If you go back and forth between a PC environment and a UNIX environment, you may find that this dissimilarity in methods for cursor movement is the most frustrating difference between the two.
+
+In the table below, the symbol ^ before a letter means that the <Ctrl> key should be held down while the letter key is pressed.
+	
+	j or <Return>
+	move cursor down one line
+	
+	k [or up-arrow]	
+	move cursor up one line
+	
+	h or <Backspace>
+  	move cursor left one character
+	
+	l or <Space>
+  	move cursor right one character
+
+	0 (zero)	move cursor to start of current line (the one with the cursor)
+	
+	$	move cursor to end of current line
+ 	
+	w	move cursor to beginning of next word
+ 	
+	b	move cursor back to beginning of preceding word
+ 	
+	:0<Return> or 1G	move cursor to first line in file
+ 	
+	:n<Return> or nG	move cursor to line n
+ 	
+	:$<Return> or G	move cursor to last line in file
+		
+
+## Screen Manipulation
+
+The following commands allow the vi editor screen (or window) to move up or down several lines and to be refreshed.
+
+ 	^f	move forward one screen
+ 	
+	^b	move backward one screen
+ 	
+	^d	move down (forward) one half screen
+ 	
+	^u	move up (back) one half screen
+ 	
+	^l	redraws the screen
+ 	
+	^r	redraws the screen, removing deleted lines
+		
+
+## Adding, Changing, and Deleting Text
+
+Unlike PC editors, you cannot replace or delete text by highlighting it with the mouse. Instead use the commands in the following tables.
+
+Perhaps the most important command is the one that allows you to back up and undo your last action. Unfortunately, this command acts like a toggle, undoing and redoing your most recent action. You cannot go back more than one step.
+
+	u	UNDO WHATEVER YOU JUST DID; a simple toggle
+		
+The main purpose of an editor is to create, add, or modify text for a file.
+
+## Inserting or Adding Text
+
+The following commands allow you to insert and add text. Each of these commands puts the vi editor into insert mode; thus, the <Esc> key must be pressed to terminate the entry of text and to put the vi editor back into command mode.
+	
+	i	insert text before cursor, until <Esc> hit
+ 	
+	I	insert text at beginning of current line, until <Esc> hit
+	
+	a	append text after cursor, until <Esc> hit
+ 	
+	A	append text to end of current line, until <Esc> hit
+	
+	o	open and put text in a new line below current line, until <Esc> hit
+	
+	O	open and put text in a new line above current line, until <Esc> hit
+		
+## Changing Text
+
+The following commands allow you to modify text.
+       
+       r 	replace single character under cursor (no <Esc> needed)
+	
+ 	R	replace characters, starting with current cursor position, until <Esc> hit
+	
+ 	cw	change the current word with new text,
+	
+starting with the character under cursor, until <Esc> hit
+	
+ 	cNw	change N words beginning with character under cursor, until <Esc> hit;
+	
+  e.g., c5w changes 5 words
+  
+ 	C	change (replace) the characters in the current line, until <Esc> hit
+	
+ 	cc	change (replace) the entire current line, stopping when <Esc> is hit
+	
+ 	Ncc or cNc	change (replace) the next N lines, starting with the current line,
+	
+stopping when <Esc> is hit
+		
+## Deleting Text
+
+The following commands allow you to delete text.
+
+	x	delete single character under cursor
+ 	
+	Nx	delete N characters, starting with character under cursor
+ 	
+	dw	delete the single word beginning with character under cursor
+ 	
+	dNw	delete N words beginning with character under cursor;
+	
+  e.g., d5w deletes 5 words
+  
+ 	D	delete the remainder of the line, starting with current cursor position
+	
+	dd	delete entire current line
+ 
+ 	Ndd or dNd	delete N lines, beginning with the current line;
+	
+  e.g., 5dd deletes 5 lines
+		
+## Cutting and Pasting Text
+
+The following commands allow you to copy and paste text.
+
+ 	yy	copy (yank, cut) the current line into the buffer
+	
+ 	Nyy or yNy	copy (yank, cut) the next N lines, including the current line, into the buffer
+	
+ 	p	put (paste) the line(s) in the buffer into the text after the current line
 

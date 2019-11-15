@@ -16,6 +16,10 @@
 
 ### 5. [VI](https://github.com/Snehaphilip989/miniproject1/blob/master/VI.md)
 
+### 6. [Python Image](https://github.com/Snehaphilip989/miniproject1/tree/master/Python%20Image)
+
+### 7. [Python Terms](https://github.com/Snehaphilip989/miniproject1/tree/master/Python%20Terms)
+
 ## Changelog
 
 ### 1. [Ullash Changelog](https://github.com/Snehaphilip989/miniproject1/blob/master/Changelog_UllashJain.md)

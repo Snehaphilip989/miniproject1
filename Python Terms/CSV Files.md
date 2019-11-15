@@ -8,4 +8,5 @@ Opening a CSV file
 
 In order to open the CSV file, we make use of the module called CSV reader which allows us to read the CSV files.
 
-![CSVReader](C:\Users\MyHPLap\Desktop\Python images\CSVReader)
+
+![Image of CSVReader](C:\Users\MyHPLap\Desktop\Python images\CSVReader)

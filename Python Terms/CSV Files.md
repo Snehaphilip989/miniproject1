@@ -9,4 +9,4 @@ Files ending in the CSV file extension are generally used to exchange data, usua
 ## In order to open the CSV file, we make use of the module called CSV reader which allows us to read the CSV files.
 
 
-< img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/CSVReader.png">
+<img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/CSVReader.png" />

@@ -13,6 +13,7 @@ The below image shows an example of a block that is INCORRECTLY indented:
 <img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/indentation%20Needed.PNG" />
 
 The below image shows an example of a block that is CORRECTLY indented:
+
 <img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/indentation_done_right.PNG" />
 
 

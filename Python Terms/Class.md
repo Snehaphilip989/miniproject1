@@ -10,3 +10,8 @@ The simplest way to create a class is by using the class keyword. The below imag
 
 <img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/Class.PNG" />
 
+
+
+# Source 
+
+https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/

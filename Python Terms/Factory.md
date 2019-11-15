@@ -14,6 +14,26 @@ A Factory provides one of the best ways to create an object. In factory pattern,
 
 Factory patterns are implemented in Python using factory method. When a user calls a method such that we pass in a string and the return value as a new object is implemented through factory method. The type of object used in factory method is determined by string which is passed through method.
 
+## Conceptual Example
+from __future__ import annotations
+from abc import ABC, abstractmethod
+
+
+class Creator(ABC):
+    """
+    The Creator class declares the factory method that is supposed to return an
+    object of a Product class. The Creator's subclasses usually provide the
+    implementation of this method.
+    """
+
+    @abstractmethod
+    def factory_method(self):
+        """
+        Note that the Creator may also provide some default implementation of
+        the factory method.
+        """
+        pass
+
 
 # Source 
 

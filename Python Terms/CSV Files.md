@@ -10,3 +10,8 @@ Files ending in the CSV file extension are generally used to exchange data, usua
 
 
 <img src="https://github.com/Snehaphilip989/miniproject1/blob/master/Python%20Image/CSVReader.png" />
+
+
+# Source 
+
+https://www.lifewire.com/csv-file-2622708

@@ -8,7 +8,7 @@ Inheritance or extending a class are that:
 
 * It allows the code to be reused as many times as needed.
 
-*The base class once defined and once it is compiled, it need not be reworked.
+* The base class once defined and once it is compiled, it need not be reworked.
 
 * Saves time and effort as the main code need not be written again.
 
